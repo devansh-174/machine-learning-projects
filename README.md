@@ -16,3 +16,13 @@ Machine Learning
 Natural Language Processing
 Scikit-learn
 Pandas
+
+## Project Structure
+
+machine-learning-projects/
+│
+├── resume_screening_nlp
+├── fake_news_detection
+├── movie_recommendation_system
+├── cpu_temperature_prediction
+└── parkinsons_detection
