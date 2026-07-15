@@ -1,0 +1,10 @@
+Metric,Value
+Total Files,1440
+Actors,24
+Emotion Classes,7
+Mean Duration (s),3.7
+Median Duration (s),3.67
+Minimum Duration (s),2.94
+Maximum Duration (s),5.27
+Original Sample Rate(s),48000.0
+Mean RMS Energy,0.018
